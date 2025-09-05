@@ -143,6 +143,19 @@ This project is for educational and demonstration purposes.
 
 ## 🌐 Live Demo
 
-[Add your deployed project link here]
+https://wild-oasis-website-website.vercel.app/
 
 ---
+
+
+## 📸 Project Screenshots
+
+<p align="center">
+  <img src="public/readme1.png" alt="Screenshot 1" width="45%"/>
+  <img src="public/readme2.png" alt="Screenshot 2" width="45%"/>
+</p>
+<p align="center">
+  <img src="public/readme3.png" alt="Screenshot 3" width="45%"/>
+  <img src="public/readme4.png" alt="Screenshot 4" width="45%"/>
+</p>
+
